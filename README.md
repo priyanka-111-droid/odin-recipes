@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipe page
 
 This is a website which contains links to three special recipes.
 
